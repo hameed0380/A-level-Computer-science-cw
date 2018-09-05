@@ -1,0 +1,2 @@
+# Computer-Science-Coursework
+For my project I will working on a simulation which can predict and show the survival rate of an organism in a given generation.  By this I mean that I will be solving the problem of how progressively a gene overtime will develop within generations. This is used to simulate and track the progression of genes and calculate the survival rate of organisms in a given generation.
